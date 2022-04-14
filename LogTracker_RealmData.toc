@@ -4,6 +4,7 @@
 ## Author: Mylaerla-Everlook
 ## Notes: Data for mapping realms with regions
 ## DefaultState: enabled
+## Dependencies: LogTracker
 ## LoadOnDemand: 1
 
 LogTracker_RealmData.lua
