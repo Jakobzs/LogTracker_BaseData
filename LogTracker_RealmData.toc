@@ -1,0 +1,9 @@
+## Interface: 20501
+## Title: LogTracker_RealmData
+## Version: 1.0.0
+## Author: Mylaerla-Everlook
+## Notes: Data for mapping realms with regions
+## DefaultState: enabled
+## LoadOnDemand: 1
+
+LogTracker_RealmData.lua
