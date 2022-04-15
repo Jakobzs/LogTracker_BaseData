@@ -1,4 +1,4 @@
-LogTracker_RealmData = {
+LogTracker_BaseData = {
   bySlug = {
     [ "丽丽（四川）" ] = "CN",
     [ "乌洛克" ] = "CN",
