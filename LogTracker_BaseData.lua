@@ -1,5 +1,13 @@
 LogTracker_BaseData = {
-  bySlug = {
+  partitionNames = {
+    "P1",
+    "P2",
+    "P2.5",
+    "P3",
+    "P3.5 & P4",
+    "P6 (No WB)",
+  },
+  regionByServerSlug = {
     [ "丽丽（四川）" ] = "CN",
     [ "乌洛克" ] = "CN",
     [ "伊森迪奥斯" ] = "CN",
@@ -189,7 +197,7 @@ LogTracker_BaseData = {
     windseeker = "US",
     yojamba = "US",
   },
-  byName = {
+  regionByServerName = {
     [ "丽丽（四川）" ] = "CN",
     [ "乌洛克" ] = "CN",
     [ "伊森迪奥斯" ] = "CN",
