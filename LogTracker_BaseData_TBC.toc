@@ -3,6 +3,8 @@
 ## Version: 1.0.0
 ## Author: Mylaerla-Everlook
 ## Notes: Base data for the log tracker addon
+## X-Curse-Project-ID: 612007
+## X-Wago-ID: 5bGokqG0
 ## DefaultState: enabled
 ## Dependencies: LogTracker
 ## LoadOnDemand: 1
