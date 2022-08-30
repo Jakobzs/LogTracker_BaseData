@@ -1,6 +1,7 @@
-## Interface: 90200
-## Interface-Classic: 11402
+## Interface: 90207
+## Interface-Classic: 11403
 ## Interface-BCC: 20504
+## Interface-Wrath: 30400
 ## Title: LogTracker_BaseData
 ## Version: 1.0.0
 ## Author: Mylaerla-Everlook
