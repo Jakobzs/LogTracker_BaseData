@@ -1258,7 +1258,10 @@ LogTracker_BaseData = {
             {["id"] = 101120, ["name"] = "Thaddius", ["journalID"] = 0},
             {["id"] = 101121, ["name"] = "The Four Horsemen", ["journalID"] = 0}
         },
-        [1016] = {{["id"] = 772, ["name"] = "Archavon the Stone Watcher", ["journalID"] = 0}}
+        [1016] = {
+            {["id"] = 772, ["name"] = "Archavon the Stone Watcher", ["journalID"] = 0},
+            {["id"] = 774, ["name"] = "Emalon the Storm Watcher", ["journalID"] = 0},
+        }
     },
     ["partitionNames"] = {
         [1] = "P1",
