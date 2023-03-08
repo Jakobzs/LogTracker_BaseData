@@ -1261,13 +1261,14 @@ LogTracker_BaseData = {
         },
         [1016] = {
             {["id"] = 772, ["name"] = "Archavon the Stone Watcher", ["journalID"] = 0},
-            {["id"] = 774, ["name"] = "Emalon the Storm Watcher", ["journalID"] = 0},
+            {["id"] = 774, ["name"] = "Emalon the Storm Watcher", ["journalID"] = 0}
         },
         [1017] = {
+            --{["id"] = 744, ["name"] = "Flame Leviathan", ["journalID"] = 0}, -- Skip flame leviathan
             {["id"] = 745, ["name"] = "Ignis the Furnace Master", ["journalID"] = 0},
             {["id"] = 746, ["name"] = "Razorscale", ["journalID"] = 0},
             {["id"] = 747, ["name"] = "XT-002 Deconstructor", ["journalID"] = 0},
-            {["id"] = 748, ["name"] = "Assembly of Iron", ["journalID"] = 0},
+            {["id"] = 748, ["name"] = "The Assembly of Iron", ["journalID"] = 0},
             {["id"] = 749, ["name"] = "Kologarn", ["journalID"] = 0},
             {["id"] = 750, ["name"] = "Auriaya", ["journalID"] = 0},
             {["id"] = 751, ["name"] = "Hodir", ["journalID"] = 0},
@@ -1277,7 +1278,7 @@ LogTracker_BaseData = {
             {["id"] = 755, ["name"] = "General Vezax", ["journalID"] = 0},
             {["id"] = 756, ["name"] = "Yogg-Saron", ["journalID"] = 0},
             {["id"] = 757, ["name"] = "Algalon the Observer", ["journalID"] = 0}
-        },
+        }
     },
     ["partitionNames"] = {
         [1] = "P1",
